@@ -190,7 +190,7 @@ Ignora `.env`, `node_modules/`, `cypress/reports/`, screenshots, videos e artefa
 
 ### `devops/` — CI/CD por ambiente
 
-Pipelines modularizados: **um YAML por ambiente** (Azure DevOps).
+Pipelines modularizados: **um YAML por ambiente** (Azure DevOps como exemplo).
 
 | Arquivo | Ambiente |
 |---------|----------|
