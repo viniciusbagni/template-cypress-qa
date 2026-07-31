@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+\downloads
+.env
+\screenshots
+mochawesome-report
+mochawesome.json
+\reports
+\results
